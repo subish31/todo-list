@@ -1,0 +1,29 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(44, 188, 188);
+}
+.list{
+    width:300px;
+}
+.main{
+    background-color: rgb(52, 53, 52);
+    color: azure;
+    padding: 4px;
+    margin:5px;
+}
+li{
+    padding:10px;
+}
+
+p{
+    background-color: darkgrey;
+    width: 100px;
+    text-align: center;
+    transform: translate(50px, 30px);
+}
+.finish{
+    color: darkgray;
+}
